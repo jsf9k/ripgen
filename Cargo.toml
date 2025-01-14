@@ -3,3 +3,4 @@ members = [
 	"ripgen",
 	"ripgen_lib"
 ]
+resolver = "2"
